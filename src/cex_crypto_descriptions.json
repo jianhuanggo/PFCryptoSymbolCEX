@@ -1,0 +1,52 @@
+[
+  {
+    "symbol": "BTC",
+    "source_of_information": "coinmarketcap.com",
+    "description": "The live Bitcoin price today is $94,917.55 USD with a 24-hour trading volume of $33,078,870,040.55 USD. We update our BTC to USD price in real-time."
+  },
+  {
+    "symbol": "ETH",
+    "source_of_information": "coinmarketcap.com",
+    "description": "The live Ethereum price today is $1,796.93 USD with a 24-hour trading volume of $14,095,196,077.13 USD. We update our ETH to USD price in real-time."
+  },
+  {
+    "symbol": "USDT",
+    "source_of_information": "coinmarketcap.com",
+    "description": "The live Tether USDt price today is $1.00 USD with a 24-hour trading volume of $73,985,467,508.22 USD. We update our USDT to USD price in real-time."
+  },
+  {
+    "symbol": "XRP",
+    "source_of_information": "coinmarketcap.com",
+    "description": "The live XRP price today is $2.22 USD with a 24-hour trading volume of $3,954,065,518.39 USD. We update our XRP to USD price in real-time."
+  },
+  {
+    "symbol": "BNB",
+    "source_of_information": "coinmarketcap.com",
+    "description": "The live BNB price today is $607.84 USD with a 24-hour trading volume of $1,683,878,369.76 USD. We update our BNB to USD price in real-time."
+  },
+  {
+    "symbol": "SOL",
+    "source_of_information": "coinmarketcap.com",
+    "description": "The live Solana price today is $155.94 USD with a 24-hour trading volume of $4,077,890,641.43 USD. We update our SOL to USD price in real-time."
+  },
+  {
+    "symbol": "USDC",
+    "source_of_information": "coinmarketcap.com",
+    "description": "The live USDC price today is $0.9999 USD with a 24-hour trading volume of $11,250,406,823.00 USD. We update our USDC to USD price in real-time."
+  },
+  {
+    "symbol": "DOGE",
+    "source_of_information": "coinmarketcap.com",
+    "description": "The live Dogecoin price today is $0.1845 USD with a 24-hour trading volume of $1,554,411,989.31 USD. We update our DOGE to USD price in real-time."
+  },
+  {
+    "symbol": "ADA",
+    "source_of_information": "coinmarketcap.com",
+    "description": "The live Cardano price today is $0.7247 USD with a 24-hour trading volume of $1,097,844,532.50 USD. We update our ADA to USD price in real-time."
+  },
+  {
+    "symbol": "TRON",
+    "source_of_information": "coinmarketcap.com",
+    "description": "The live TRON price today is $0.2439 USD with a 24-hour trading volume of $540,221,326.92 USD. We update our TRX to USD price in real-time."
+  }
+]
